@@ -1,0 +1,14 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.nav_item{
+  margin-left: 25px;
+  float: left;
+  margin-top: 20px;
+}
+
