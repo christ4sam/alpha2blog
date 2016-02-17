@@ -31,7 +31,7 @@ class ArticlesController < ApplicationController
     end
     
     
-      def update
+    def update
         # @article = Article.find(params[:id])
         if @article.update(article_params)
           flash[:notice] = "Article was updated successfully"
